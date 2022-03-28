@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "My app",
+    "description": "first app",
+    "version": "nfheehwi",
+    "id": "cl1aq11nn17139501s6bryw73hz",
+    "url": "https://app.amplication.com/cl1aq11nn17139501s6bryw73hz",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "dragan",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1aq11nn17139501s6bryw73hz",
+      "authProvider": "Jwt"
+    }
+  }
+}
